@@ -11,7 +11,8 @@ function App() {
     <WeatherMap/>
     <Search />
     <footer>
-This project was coded by Esmée Zootjes and is open-sourced on <a href="https://github.com/esmeecodes/hows-the-weather" target="_blank">GitHub</a> and hosted on Netlify.    </footer>
+This project was coded by Esmée Zootjes and is open-sourced on <a href="https://github.com/esmeecodes/hows-the-weather" target="_blank">GitHub</a> and hosted on Netlify.    
+</footer>
   </div>
   );
 }
